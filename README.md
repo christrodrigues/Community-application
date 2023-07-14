@@ -1,4 +1,4 @@
-# TEAM PIXEL : COMMUNITIES
+# COMMUNITIES APPLICATION
 
 ## :busts_in_silhouette: TEAM:
 
@@ -22,9 +22,6 @@
 
 1. Clone repository
 
-```console
-$ git clone https://github.com/neu-mis-info-6150-spring-2023/final-project-group-team-pixel.git
-```
 
 2. Install packages
 

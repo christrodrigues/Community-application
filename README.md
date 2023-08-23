@@ -194,6 +194,4 @@ Allow users to convert written text from posts into spoken words
 
 1. Implement a feature for users to switch between dark and light mode.
 
-#
 
-![UML](pixel.jpg)
